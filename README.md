@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tmert35
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning Codeing myself
-- 💞️ I’m looking to collaborate on Codeing
+- 🌱 I’m currently learning Coding myself
+- 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me toprak.bilgin355@gmail.com
 
 <!---
